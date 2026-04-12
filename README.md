@@ -10,6 +10,7 @@
   <img src="https://raw.githubusercontent.com/PrismLauncher/PrismLauncher/refs/heads/develop/program_info/org.prismlauncher.PrismLauncher.svg" width="128" />
 </p>
 
+This AppImage would never have existed without the enormous effort of @Samueru-sama
 
 | Latest Stable Release | Upstream URL |
 | :---: | :---: |
