@@ -9,8 +9,11 @@ echo "---------------------------------------------------------------"
 pacman -Syu --noconfirm \
     gamemode      \
     glfw          \
+    kvantum       \
+    lxqt-qtplugin \
     openal        \
     prismlauncher \
+    qt6ct         \
     xorg-xrandr
 
 echo "Installing debloated packages..."
