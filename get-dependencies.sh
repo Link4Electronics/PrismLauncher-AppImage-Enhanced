@@ -10,7 +10,8 @@ pacman -Syu --noconfirm \
     gamemode      \
     glfw          \
     openal        \
-    prismlauncher
+    prismlauncher \
+    xorg-xrandr
 
 echo "Installing debloated packages..."
 echo "---------------------------------------------------------------"
