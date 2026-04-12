@@ -6,7 +6,11 @@ ARCH=$(uname -m)
 
 echo "Installing package dependencies..."
 echo "---------------------------------------------------------------"
-pacman -Syu --noconfirm prismlauncher
+pacman -Syu --noconfirm \
+    gamemode      \
+    glfw          \
+    openal        \
+    prismlauncher
 
 echo "Installing debloated packages..."
 echo "---------------------------------------------------------------"
