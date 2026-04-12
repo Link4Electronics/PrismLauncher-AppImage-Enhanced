@@ -15,7 +15,7 @@ export QT_DIR=qt6
 export DEPLOY_VULKAN=1
 
 # Deploy dependencies
-quick-sharun /usr/bin/prismlauncher /usr/bin/env
+quick-sharun /usr/bin/prismlauncher /usr/lib/libglfw.so /usr/lib/libopenal.so /usr/bin/env
 
 # Additional changes can be done in between here
 # this app has problems with other locales breaking physics
