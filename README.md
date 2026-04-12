@@ -7,7 +7,7 @@
 [![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/PrismLauncher-AppImage-Enhanced)](https://github.com/pkgforge-dev/PrismLauncher-AppImage-Enhanced/releases/latest)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PrismLauncher/PrismLauncher/develop/program_info/org.prismlauncher.PrismLauncher.logo-darkmode.svg" width="128" />
+  <img src="https://raw.githubusercontent.com/PrismLauncher/PrismLauncher/refs/heads/develop/program_info/org.prismlauncher.PrismLauncher.svg" width="128" />
 </p>
 
 
